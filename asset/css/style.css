@@ -1,0 +1,15 @@
+.news{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
+}
+.news h1{
+   text-transform:uppercase;
+}
+td img{
+    width: 80px;
+    height: 80px;
+}
+
